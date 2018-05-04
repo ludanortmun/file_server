@@ -1,4 +1,4 @@
-# file_server
+# File Server Python
 Server debe ser ejecutado con la siguiente línea en una terminal, ubicada en el directorio raíz del repositorio:
 python3 server.py [Host IP] [Port]
 
